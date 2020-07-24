@@ -12,7 +12,7 @@ def contact(str):
 
     for i in rw_ps:
         try:
-            # print(dic[i])
+            # print(dict[i])
             num.append(dict[i])
         except:
             pass
